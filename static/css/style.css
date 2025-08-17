@@ -1,0 +1,45 @@
+/* Allgemeines Layout */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+
+h1 {
+  margin-top: 0;
+  color: #343a40;
+  font-size: 28px;
+  text-align: center;
+}
+
+form {
+  margin: 40px 0;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
